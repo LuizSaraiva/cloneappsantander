@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppSantander</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="confirmAberto">Confirmações em aberto</string>
+    <string name="home">Home</string>
+    <string name="saldoExtrato">Saldo e extrato</string>
+    <string name="transacoes">Transações</string>
+    <string name="card">Cartões</string>
+    <string name="santanderOn">Santander On</string>
+    <string name="emprestimos">Empréstimos</string>
+
+</resources>
