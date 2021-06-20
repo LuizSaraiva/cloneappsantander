@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/item_menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/item_menu_confirm_abert"
+        android:icon="@drawable/ic_analytics"
+        android:title="@string/confirmAberto" />
+    <item
+        android:id="@+id/item_menu_saldo_extrato"
+        android:icon="@drawable/ic_update"
+        android:title="@string/saldoExtrato" />
+    <item
+        android:id="@+id/item_menu_trans"
+        android:icon="@drawable/ic_transferir"
+        android:title="@string/transacoes" />
+    <item
+        android:id="@+id/item_menu_card"
+        android:icon="@drawable/ic_credit_card"
+        android:title="@string/card" />
+    <item
+        android:id="@+id/item_menu_sant_on"
+        android:icon="@drawable/ic_donut"
+        android:title="@string/santanderOn" />
+    <item
+        android:id="@+id/item_menu_emprest"
+        android:icon="@drawable/ic_money"
+        android:title="@string/emprestimos" />
+
+</menu>
